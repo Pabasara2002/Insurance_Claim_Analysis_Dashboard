@@ -52,4 +52,14 @@ An interactive dashboard was developed using Power BI to visualize key metrics a
 
 ---
 
-## 📂 Project Structure
+## 🚀 Key Outcomes
+- Enabled better understanding of risk distribution and claim behavior  
+- Supported decision-making through data visualization  
+- Demonstrated business analysis and data analytics capabilities  
+
+---
+
+## 🔗 Author
+**Pabasara Dewmini**  
+- LinkedIn: https://www.linkedin.com/in/pabasara-dewmini-a940b1357  
+- GitHub: https://github.com/Pabasara2002
